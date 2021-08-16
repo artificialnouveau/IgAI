@@ -12,8 +12,11 @@ Often the goal of satire is to change cultural norms for the better by mocking s
 To quote Wojciech Wiewiórowski:
 
 _While technology cannot solve all societal problems, it should not exacerbate them. Artificial Intelligence should be used to improve our lives, individually and as a society, but such improvement should never come at the cost of our values and fundamental rights. To this end, we have to carefully consider:
+
 •    What problems do we want to solve with technology?
+
 •    Are there problems that cannot be solved by technology?
+
 •    What new problems could new technologies create?_
 
 ## IgnobleAI projects
