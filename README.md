@@ -19,6 +19,6 @@ When does God answer your prayers: How to analyze news headlines (In Development
 
 The last frontier of personalized advertising: How to deepfake yourself into every ad (In Development)
 
-## Contribution
+## Contributions
 
 It's just me so far!
