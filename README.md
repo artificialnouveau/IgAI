@@ -12,8 +12,11 @@ Often the goal of satire is to change cultural norms for the better by mocking s
 ## IgnobleAI projects
 
 Train your AI Pickup Artist: How to customize your own facial recognition algorithm (In Development)
+
 Why am I single, Google?: How to analyze your google search history (In Development)
+
 When does God answer your prayers: How to analyze news headlines (In Development)
+
 The last frontier of personalized advertising: How to deepfake yourself into every ad (In Development)
 
 ## Contribution
