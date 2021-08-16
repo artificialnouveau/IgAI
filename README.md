@@ -2,7 +2,7 @@
 
 ## What is IgnobleAI
 
-IgnobleAI is a collection of free educational resources devoted to teaching the general public the design process and impact of AI through satire and humor.  The IgnobleAI repository will consist of instructional guides, interactive demos and features and video lectures. The Ignoble repository will guide users through every step of the entire machine learning process, which includes data collection, data cleaning, data labelling, ML modelling, prototyping the modelling and refining. 
+IgnobleAI is a collection of free educational resources devoted to teaching the general public the design process and impact of AI through satire and humor.  The IgnobleAI repository will consist of instructional guides, interactive demos and features and video lectures. The Ignoble repository will guide users through every step of the entire machine learning process, which includes data collection, data cleaning, data labelling, machine learning model building, deployment and refinement.
 
 
 ## What is the objective of IgnobleAI
